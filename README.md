@@ -1,2 +1,3 @@
 # CMPM-17
-Machine Learning: A convolutional neural network to predict
+
+Machine Learning: generating neural networks with low loss and high precision.
